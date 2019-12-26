@@ -12,6 +12,6 @@ Use `python run_dataset.py` to run the model on the dataset
 
 To visualize training using Tensorboard use `tensorboard --logdir=./logs`, then open http://0.0.0.0:6006/ into your web browser.
 <video width="320" height="240" controls>
-  <source src="Screencast from Thursday 26 December 2019 12:40:03  IST.webm" type="video/webm">
+  <source src="output.mp4" type="video/webm">
   Your browser does not support the video tag.
 </video>
